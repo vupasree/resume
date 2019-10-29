@@ -12,7 +12,7 @@ ___
 
 - Over 2+ years of IT experience in QA Testing, involved in QA project planning, writing Master Test Plan and Developing Test Specifications, test weekly status reports, Conducting Bug Triages and testing of client server and Internet based applications.
 - Experience in Telecommunication, Medical industry.
--              Highly experienced in various kinds of SDLC’s like waterfall, agile models.
+- Highly experienced in various kinds of SDLCâ€™s like waterfall, agile models.
 - Highly skilled in creating and executing Test Scenarios, Test cases and having good knowledge in QA methodologies.
 - Experience in testing UI on various Windows operating systems.
 - Experience in Unit testing, Integration, Regression, Sanity, Boundary, Functional and System testing.
@@ -56,7 +56,7 @@ ___
 
 **Project Summary&nbsp;:**
 -
-<b>Client &nbsp;:</b>&nbsp;  AT & T Lucent Technologies &nbsp;(Sept’15- Nov’17)
+<b>Client &nbsp;:</b>&nbsp;  AT & T Lucent Technologies &nbsp;(Septâ€™15- Novâ€™17)
 <br>
 <b>Project &nbsp;:</b>&nbsp;  AT&T web portal  
 <br>
@@ -73,7 +73,7 @@ ___
 - Involved in Browser Compatibility Testing (Internet Explorer, Chrome, Firefox) for checking the compatibility.
 - Performed data validation to check the content retrieved on various windows against the Database tables to make sure that the process retrieved all the data it is supposed to by writing SQL queries.
 - Executed complex SQL queries to extract and validate the data in the database and views as a part of Back End testing.
-- Extensively conducted End-to-End testing on the application to see if the data entered in the webpage’s is transferred correctly through the pages and is stored in the exact tables of the database.
+- Extensively conducted End-to-End testing on the application to see if the data entered in the webpageâ€™s is transferred correctly through the pages and is stored in the exact tables of the database.
 - Analyzed Business requirements and System specifications using which developed Test Strategies, Test Plans, Test Cases and Test Scripts for the Functional, GUI and Integration testing.
 - Inserted Checkpoints to check for the text, Xml, database and standard properties of the application using the QTP.
 - Performed automation testing on the application using QTP (Quick Test Pro) to do a thorough Regression testing.
@@ -81,13 +81,13 @@ ___
 - Extensively performed the Stress testing on the application to find out the bottlenecks of the application and ensure load balancing.
 <br>
 
-<b>Client &nbsp;:</b>&nbsp;Methodist Iowa clinic  &nbsp;(Mar’15 – Aug’15)</Span>
+<b>Client &nbsp;:</b>&nbsp;Methodist Iowa clinic  &nbsp;(Marâ€™15 â€“ Augâ€™15)</Span>
 <br>
 <b>Project &nbsp;:</b>&nbsp;  Patients health vault dashboard
 </b>
 <br>
 <br>
-Project objective is to feed patients data from various affiliated clinics into central repository for generating metrics on various scenarios, system can also be leveraged by patients for health related improvements. This system also helps management in identifying reasons for the changes in numbers on certain categories, helps doctors to analyze and track progress of patients. Based on patients consent system also allows to share information with other clinics on needed basis. All the information is accessible based on registered id, ID’s are issued to doctors, vendors,  patients, etc… , based on ID features are enabled  on the web site.
+Project objective is to feed patients data from various affiliated clinics into central repository for generating metrics on various scenarios, system can also be leveraged by patients for health related improvements. This system also helps management in identifying reasons for the changes in numbers on certain categories, helps doctors to analyze and track progress of patients. Based on patients consent system also allows to share information with other clinics on needed basis. All the information is accessible based on registered id, IDâ€™s are issued to doctors, vendors,  patients, etcâ€¦ , based on ID features are enabled  on the web site.
 <br>
 
 <b><ins>Responsibilities</ins></b>
